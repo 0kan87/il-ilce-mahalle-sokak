@@ -51,20 +51,15 @@ CREATE TABLE yollar (
 - Her il için ayrı klasör ve SQL dosyaları bulunmaktadır
 - Değişiklik geçmişi commit tarihlerinden takip edilebilir
 
-## 📁 Dosya Yapısı
+## Tablo Yapısı
 
 ```
 /
-├── 01-adana/
-│   ├── iller.sql
-│   ├── ilceler.sql
-│   ├── mahalleler.sql
-│   └── yollar.sql
-├── 02-adiyaman/
-│   ├── ...
-...
-└── 81-duzce/
-    └── ...
+├── GuncelMahalleSokak/
+    ├── iller.sql
+    ├── ilceler.sql
+    ├── mahalleler.sql
+    └── yollar.sql
 ```
 
 ## 🎯 Kullanım Alanları
