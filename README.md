@@ -46,7 +46,6 @@ CREATE TABLE yollar (
 
 ## 📅 Güncelleme Sıklığı
 
-- Veriler her gün güncellenmektedir
 - Her güncelleme için yeni bir commit oluşturulmaktadır
 - Her il için ayrı klasör ve SQL dosyaları bulunmaktadır
 - Değişiklik geçmişi commit tarihlerinden takip edilebilir
