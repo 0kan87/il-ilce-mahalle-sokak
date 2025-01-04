@@ -46,9 +46,7 @@ CREATE TABLE yollar (
 
 ## 📅 Güncelleme Sıklığı
 
-- Veriler her gün güncellenmektedir
 - Her güncelleme için yeni bir commit oluşturulmaktadır
-- Her il için ayrı klasör ve SQL dosyaları bulunmaktadır
 - Değişiklik geçmişi commit tarihlerinden takip edilebilir
 
 ## Tablo Yapısı
@@ -83,7 +81,7 @@ Bu veri seti şu alanlarda kullanılabilir:
 ## ⚠️ Önemli Notlar
 
 - Veriler otomatik olarak toplanmaktadır
-- NVİ sistemindeki güncellemeler anlık olarak yansıtılmaktadır
+- NVİ sistemindeki güncellemeler anlık olarak yansıtılmamaktadır
 - Sokak isimlerinde değişiklik olabilir
 - Yeni mahalleler eklenebilir veya mevcut mahalleler birleştirilebilir
 
