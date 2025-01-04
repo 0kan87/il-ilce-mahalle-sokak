@@ -1,6 +1,6 @@
 # 🏠 Türkiye Adres Veri Tabanı
 
-Bu repository, Türkiye'deki il, ilçe, mahalle ve sokak verilerinin günlük olarak güncellenen bir arşivini sunar. Veriler NVİ (Nüfus ve Vatandaşlık İşleri) adres sisteminden elde edilmektedir.
+Bu repository, Türkiye'deki il, ilçe, mahalle ve sokak verilerinin güncellenen bir arşivini sunar. Veriler NVİ (Nüfus ve Vatandaşlık İşleri) adres sisteminden elde edilmektedir.
 
 ## 📊 Veri Yapısı
 
@@ -52,8 +52,7 @@ CREATE TABLE yollar (
 ## Tablo Yapısı
 
 ```
-/
-├── GuncelMahalleSokak/
+├── Veri Tabanı/
     ├── iller.sql
     ├── ilceler.sql
     ├── mahalleler.sql
