@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Anamakine: 127.0.0.1
--- Üretim Zamanı: 04 Oca 2025, 14:18:15
+-- Üretim Zamanı: 06 Oca 2025, 14:18:07
 -- Sunucu sürümü: 10.4.28-MariaDB
 -- PHP Sürümü: 8.2.4
 
@@ -45,7 +45,14 @@ INSERT INTO `iller` (`id`, `adi`) VALUES
 (6, 'ANKARA'),
 (7, 'ANTALYA'),
 (8, 'ARTVİN'),
+(9, 'AYDIN'),
+(10, 'BALIKESİR'),
+(11, 'BİLECİK'),
+(12, 'BİNGÖL'),
 (68, 'AKSARAY'),
+(69, 'BAYBURT'),
+(72, 'BATMAN'),
+(74, 'BARTIN'),
 (75, 'ARDAHAN');
 
 --
