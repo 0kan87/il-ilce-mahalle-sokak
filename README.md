@@ -96,7 +96,7 @@ Bu proje MIT lisansı altında yayınlanmıştır. Detaylar için [LICENSE](LICE
 
 - Toplam İl Sayısı: 81
 - Veri Güncelleme Başlangıç Tarihi: 4 Ocak 2025
-- Son Güncelleme: [GÜN SONU OTOMATİK GÜNCELLENECEK]
+- Son Güncelleme: 6 Ocak 2025
 
 ## 🔗 Faydalı Bağlantılar
 
