@@ -111,4 +111,3 @@ Sorularınız ve önerileriniz için:
 - destek@viptema.com
 
 ---
-*Not: Bu README otomatik olarak güncellenmektedir
