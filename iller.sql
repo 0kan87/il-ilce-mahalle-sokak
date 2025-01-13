@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Anamakine: 127.0.0.1
--- Üretim Zamanı: 10 Oca 2025, 12:04:57
+-- Üretim Zamanı: 13 Oca 2025, 09:57:51
 -- Sunucu sürümü: 10.4.28-MariaDB
 -- PHP Sürümü: 8.2.4
 
@@ -69,20 +69,54 @@ INSERT INTO `iller` (`id`, `adi`) VALUES
 (30, 'HAKKARİ'),
 (31, 'HATAY'),
 (32, 'ISPARTA'),
+(33, 'MERSİN'),
 (34, 'İSTANBUL'),
 (35, 'İZMİR'),
 (36, 'KARS'),
 (37, 'KASTAMONU'),
 (38, 'KAYSERİ'),
+(39, 'KIRKLARELİ'),
+(40, 'KIRŞEHİR'),
+(41, 'KOCAELİ'),
+(42, 'KONYA'),
+(43, 'KÜTAHYA'),
+(44, 'MALATYA'),
+(45, 'MANİSA'),
 (46, 'KAHRAMANMARAŞ'),
+(47, 'MARDİN'),
+(48, 'MUĞLA'),
+(49, 'MUŞ'),
+(50, 'NEVŞEHİR'),
+(51, 'NİĞDE'),
+(52, 'ORDU'),
+(53, 'RİZE'),
+(54, 'SAKARYA'),
+(55, 'SAMSUN'),
+(56, 'SİİRT'),
+(57, 'SİNOP'),
+(58, 'SİVAS'),
+(59, 'TEKİRDAĞ'),
+(60, 'TOKAT'),
+(61, 'TRABZON'),
+(62, 'TUNCELİ'),
+(63, 'ŞANLIURFA'),
+(64, 'UŞAK'),
+(65, 'VAN'),
+(66, 'YOZGAT'),
+(67, 'ZONGULDAK'),
 (68, 'AKSARAY'),
 (69, 'BAYBURT'),
 (70, 'KARAMAN'),
+(71, 'KIRIKKALE'),
 (72, 'BATMAN'),
+(73, 'ŞIRNAK'),
 (74, 'BARTIN'),
 (75, 'ARDAHAN'),
 (76, 'IĞDIR'),
+(77, 'YALOVA'),
 (78, 'KARABÜK'),
+(79, 'KİLİS'),
+(80, 'OSMANİYE'),
 (81, 'DÜZCE');
 
 --
